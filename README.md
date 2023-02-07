@@ -12,7 +12,8 @@ The user can connect their email, facebook, whatsapp, among other social network
 The user can ask general culture questions.
 The user can take photos and apply any of the different styles implemented in the virtual assistant.
 
-<div style="display: flex">
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 12-58-59.png">
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 13-00-17.png">
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 13-01-38.png">
