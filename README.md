@@ -14,9 +14,15 @@ The user can take photos and apply any of the different styles implemented in th
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
+<div>
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 12-58-59.png">
+</div>
+<div>
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 13-00-17.png">
+</div>
+<div>
 <img src="./main_features/images/readme_images/Screenshot from 2023-02-07 13-01-38.png">
+</div>
 </div>
 
 ![image](https://imgs.search.brave.com/xFpLwryLJ7-hi1BPwJwcl9l8ZR8u4poviDaw84RB6dw/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9jb250/ZW50LmZvcnR1bmUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE2LzEyL2dhdGVi/b3gtaGlrYXJpLXlv/dXR1YmUuanBn)
