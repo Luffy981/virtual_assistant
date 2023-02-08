@@ -38,4 +38,28 @@ Go to folder **main_features** and run:
 ./vosk_va_english.py
 ```
 
+### Citing resources used
+
+```bibtex
+@misc{speechbrain,
+  title={{SpeechBrain}: A General-Purpose Speech Toolkit},
+  author={Mirco Ravanelli and Titouan Parcollet and Peter Plantinga and Aku Rouhe and Samuele Cornell and Loren Lugosch and Cem Subakan and Nauman Dawalatabad and Abdelwahab Heba and Jianyuan Zhong and Ju-Chieh Chou and Sung-Lin Yeh and Szu-Wei Fu and Chien-Feng Liao and Elena Rastorgueva and François Grondin and William Aris and Hwidong Na and Yan Gao and Renato De Mori and Yoshua Bengio},
+  year={2021},
+  eprint={2106.04624},
+  archivePrefix={arXiv},
+  primaryClass={eess.AS},
+  note={arXiv:2106.04624}
+}
+
+```
+### References
+
+https://arxiv.org/abs/1705.06830
+https://openaccess.thecvf.com/content/CVPR2021/html/Kotovenko_Rethinking_Style_Transfer_From_Pixels_to_Parameterized_Brushstrokes_CVPR_2021_paper.html
+https://arxiv.org/abs/1705.06830
+https://arxiv.org/pdf/2104.01541v2.pdf
+https://arxiv.org/pdf/2010.10504v2.pdf
+https://www.youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
+
+
 ![image](https://imgs.search.brave.com/xFpLwryLJ7-hi1BPwJwcl9l8ZR8u4poviDaw84RB6dw/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9jb250/ZW50LmZvcnR1bmUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE2LzEyL2dhdGVi/b3gtaGlrYXJpLXlv/dXR1YmUuanBn)
