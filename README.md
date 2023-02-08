@@ -25,4 +25,7 @@ The user can take photos and apply any of the different styles implemented in th
 
 <a href="https://alphacephei.com/vosk/models">Dowload VOSK model and place it inside the folder **./main_features**</a>
 
+```
+pip install -r requirements.txt
+```
 ![image](https://imgs.search.brave.com/xFpLwryLJ7-hi1BPwJwcl9l8ZR8u4poviDaw84RB6dw/rs:fit:1200:720:1/g:ce/aHR0cHM6Ly9jb250/ZW50LmZvcnR1bmUu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE2LzEyL2dhdGVi/b3gtaGlrYXJpLXlv/dXR1YmUuanBn)
